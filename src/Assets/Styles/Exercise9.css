@@ -1,0 +1,17 @@
+.ex9CSS{
+    justify-content: center;
+}
+
+.editButton{
+    margin-left: auto;     
+    margin-right: auto;   
+    padding-bottom: 30px; 
+    width: 30%; 
+}
+
+.data{
+    justify-content:center;
+    display:flex;  
+    flex-wrap: wrap;
+    gap: 40px;
+}

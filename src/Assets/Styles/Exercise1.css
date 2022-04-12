@@ -2,12 +2,10 @@
     display: flex;
     position: relative;
     justify-content: center;
-    background-color: orange;
-    height: 200px;
-    width: 200px;  
-    top: 50%;
-    margin: auto;
-    margin-top: 14%;
+    background-color: black;
+    height: 400px;
+    width: 400px;  
+    
   }
   .square p{
     display: flex;

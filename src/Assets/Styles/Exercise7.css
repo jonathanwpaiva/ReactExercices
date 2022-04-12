@@ -1,0 +1,9 @@
+.forms {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.forms input{    
+    display: block;   
+    padding: 12px 20px;
+    margin: 8px 0;    
+}

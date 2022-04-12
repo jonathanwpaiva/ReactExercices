@@ -5,7 +5,6 @@ import CustomButton from './CustomButton';
 
 const Exercise4 = () => {
     const [counter, setCounter] = useState(0)
-        
     useEffect(() => {
         setCounter(0)
       }, [])

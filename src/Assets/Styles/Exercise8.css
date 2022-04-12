@@ -1,0 +1,6 @@
+.ex8CSS{
+    justify-content:center;
+    display:flex;  
+    flex-wrap: wrap;
+    gap: 40px;
+}
